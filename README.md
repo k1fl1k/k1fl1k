@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm @k1fl1k or Yaroslav.</h1>
 <h3 align="center">A passionate full stack developer from Ukraine.</h3>
 
-- 🌱 I’m currently learning **C#, JS, Java and AI.**
-
-- 📫 How to reach me **E-mail: [kfruilldfu@gmail.com](mailto:kfruilldfu@gmail.com) [c.heletii.yaroslav@student.uzhnu.edu.ua](mailto:c.heletii.yaroslav@student.uzhnu.edu.ua)**
+How to reach me **E-mail: [kfruilldfu@gmail.com](mailto:kfruilldfu@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
